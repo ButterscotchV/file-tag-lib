@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FileTagLib
+﻿namespace FileTagLib
 {
     public class FileTagDb
     {
