@@ -1,9 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>.NETCoreApp,Version=v5.0</TargetFramework>
 
     <IsPackable>false</IsPackable>
+
+    <RootNamespace>FileTagLib.Tests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
